@@ -12,7 +12,8 @@
 
 #### Single-Threaded Architecture
 
-Imagine a restaurant with just one waiter. Despite having only one waiter, the restaurant efficiently manages multiple orders by utilizing cooks and managers to prepare and deliver the food. Similarly, Node.js operates on a single-threaded architecture, but it leverages the system kernel and thread pool to offload tasks.
+Imagine a restaurant with just one waiter. Despite having only one waiter,
+the restaurant efficiently manages multiple orders by utilizing cooks and managers to prepare and deliver the food. Similarly, Node.js operates on a single-threaded architecture, but it leverages the system kernel and thread pool to offload tasks.
 
 #### Event Loop and Thread Pool
 
